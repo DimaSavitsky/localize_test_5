@@ -19,6 +19,8 @@ You would then proceed and convert the raw content into usable HTML and render i
 
 The first step is to include a special version of AMP we call “Shadow AMP” in your Progressive Web App. Yes, that’s right – you load the AMP library in the top level page, but it won’t actually control the top level content. It will only “amplify” the portions of our page that you tell it to.
 
+A little bit of new content.
+
 Include Shadow AMP in the head of your page, like so:
 
 [sourcecode:html]
