@@ -6,4 +6,4 @@ Luego procedería y convertiría el contenido en bruto en HTML utilizable y lo r
 
 |Type | Scope | Severity | Activated<br>by default | Minutes<br>to fix | Tags|
 |:-: | :-: | :-: | :-: | :-: | :-:|
-|`Code smell` | `BSL`<br>`OS` | `Minor` | `Yes` | `30` | `standard`<br>`brainoverload`|
+|`Código de olor` | `BSL`<br>`OS` | `Minor` | `si` | `30` | `standard`<br>`brainoverload`|
