@@ -19,7 +19,7 @@ Luego procedería y convertiría el contenido en bruto en HTML utilizable y lo r
 
 El primer paso es incluir una versión especial de AMP que llamamos "Shadow AMP" en su aplicación web progresiva. Sí, es cierto: carga la biblioteca AMP en la página de nivel superior, pero en realidad no controlará el contenido de nivel superior. Solo "amplificará" las partes de nuestra página que usted le indique.
 
-A little bit of new content.
+Un poco de contenido nuevo.
 
 Incluya Shadow AMP en el encabezado de su página, así:
 
