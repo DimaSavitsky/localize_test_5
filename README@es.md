@@ -1,7 +1,7 @@
 ---
 $title: Use AMP como fuente de datos para su PWA
 $order: 1
-description: Si ha invertido en AMP pero aún no ha creado una aplicación web progresiva, sus páginas AMP pueden simplificar drásticamente el desarrollo de su aplicación web progresiva.
+description: Si ha invertido en AMP pero aún no ha creado una aplicación web progresiva, sus páginas AMP pueden simplificar drásticamente el desarrollo de su aplicación web progresiva. Upd
 formats:
 - sitios web
 author: pbakaus
