@@ -15,6 +15,8 @@ In the most common scenario, a Progressive Web App is a single page application 
 
 You would then proceed and convert the raw content into usable HTML and render it on the client. This process is costly and often hard to maintain. Instead, you can reuse your already existing AMP Pages as a content source. Best of all, AMP makes it trivial to do so in just a few lines of code.
 
+Another new segment.
+
 ##  Include "Shadow AMP" in your Progressive Web App
 
 The first step is to include a special version of AMP we call “Shadow AMP” in your Progressive Web App. Yes, that’s right – you load the AMP library in the top level page, but it won’t actually control the top level content. It will only “amplify” the portions of our page that you tell it to.
